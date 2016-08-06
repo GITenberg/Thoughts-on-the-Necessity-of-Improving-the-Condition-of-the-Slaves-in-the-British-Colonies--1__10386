@@ -1,0 +1,30 @@
+_repo: Thoughts-on-the-Necessity-of-Improving-the-Condition-of-the-Slaves-in-the-British-Colonies--1__10386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarkson, Thomas
+    alias: Clarkson, T. (Thomas)
+    birthdate: 1760
+    deathdate: 1846
+    gutenberg_agent_id: '3503'
+    url: http://www.gutenberg.org/2009/agents/3503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Clarkson
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- Emancipation -- West Indies, British'
+- !lcc 'HT'
+- !lcsh 'Slavery -- West Indies, British'
+- GITenberg
+title: "Thoughts on the Necessity of Improving the Condition of the Slaves in the\
+  \ British Colonies\r\nWith a View to Their Ultimate Emancipation; and on the Practicability,\
+  \ the Safety, and the Advantages of the Latter Measure."
+url: http://www.gutenberg.org/ebooks/10386
